@@ -10,6 +10,6 @@ Features:
 <img width="270" height="600" alt="Quiz_ResultScreen2" src="https://github.com/user-attachments/assets/bf644f41-9015-430d-a146-572fad003b20" />
 
 ## Credits
-Mojang Studio - Item Icon for Result Screen  
+Mojang Studio - Item Icon for Result Screen (Nether Star, Diamond, Barrier) 
 VectorLogoZone - Minecraft Icon for Home Screen  
 JDGraphics - Minecraft Font  
