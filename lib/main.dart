@@ -12,7 +12,9 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    // No orientation for you
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+    
     return MaterialApp(
       title: 'Minecraft Quiz',
       debugShowCheckedModeBanner: false,

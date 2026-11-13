@@ -68,7 +68,10 @@ flutter:
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/to/asset-from-package
   assets:
+    # by VectorLogoZone
     - lib/assets/images/minecraft_logo.png
+
+    # by Mojang Studio
     - lib/assets/images/Grass_Block.png
     - lib/assets/images/Barrier.png
     - lib/assets/images/Diamond.png
